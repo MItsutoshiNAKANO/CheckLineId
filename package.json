@@ -1,0 +1,15 @@
+{
+  "name": "linecheck",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "standard"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0"
+  },
+  "devDependencies": {
+    "standard": "*"
+  }
+}
